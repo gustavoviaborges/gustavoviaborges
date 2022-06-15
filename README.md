@@ -25,10 +25,6 @@
 </div>
 
 
-###
- ![Snake animation](https://github.com/vugz/vugz/blob/output/github-contribution-grid-snake.svg)
-
-###
 <div align="center">
   <img href="https://www.linkedin.com/in/gustavo-viana-borges-3a288a22b/" height="600" src="https://pa1.narvii.com/6465/6e886d159f5820d911b416cf2edc06e2f525b07d_hq.gif"  />
 </div>
