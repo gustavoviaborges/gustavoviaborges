@@ -25,7 +25,7 @@
 </div>
 
 ###
-<img href="https://github.com/Vugz/Vugz/blob/output/snake.svg" alt="Snake animation" />
+<img href="https://github.com/Vugz/blob/output/snake.svg" alt="Snake animation" />
 
 ###
 <div align="center">
