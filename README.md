@@ -25,7 +25,7 @@
 </div>
 
 ###
- ![Snake animation](https://github.com/Vugz/Vugz)'
+ ![Snake animation](https://github.com/Vugz)'
 
 ###
 <div align="center">
