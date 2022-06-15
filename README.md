@@ -20,9 +20,10 @@
 </div>
 
 ###
-<div align="left">
-  <img src="https://www.linkedin.com/in/gustavo-viana-borges-3a288a22b/" width="52" height="40" alt="linkedin logo"  />
+<div align='left'>
+img src='https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg' width='52' height='40' alt='linkedin logo' 
 </div>
+
 
 ###
 ![Snake animation](https://github.com/vugz/rafaballerini/blob/output/github-contribution-grid-snake.svg)'
