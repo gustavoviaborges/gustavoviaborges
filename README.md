@@ -1,7 +1,7 @@
 <h1 align="left">Olá! Meu nome é Gustavo Borges</h1>
 
 ###
-<h4 align="left">🌱 Em constante aprendizado! aprendendo sobre desenvolvimento web e Análise de dados!<br>😎 Construindo um futuro melhor para as pessoas que me cercam!<br>📫 Contate-me no email: contatogustavovborges@gmail.com<br>⚡ Fun fact: Sou MC, improviso e faço músicas, espero que em um futuro próximo consiga me dedicar também a esse segundo sonho!<br>📚 Estudando: Excel | Power BI | SQL | Python</h4>
+<h4 align="left">🌱 Em constante aprendizado! aprendendo sobre desenvolvimento web e Análise de dados!<br>😎 Construindo um futuro melhor para as pessoas que me cercam!<br>📫 Contate-me no email: contatogustavovborges@gmail.com<br>⚡ Fun fact: Sou MC, improviso e faço músicas, espero que em um futuro próximo consiga me dedicar também a esse segundo sonho!<br>📚 Estudando no momento: Excel | Power BI | SQL | Python</h4>
 
 ###
 <div align="center">
