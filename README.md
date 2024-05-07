@@ -16,13 +16,6 @@
   </a>
 </div>
 
-
-##
-
-<div align="center">
-  <img height="600" src="https://pa1.narvii.com/6465/6e886d159f5820d911b416cf2edc06e2f525b07d_hq.gif"  />
-</div>
-
 ###
 <div align="center">
   <img src="https://profile-counter.glitch.me/Vugz/count.svg?"  />
