@@ -1,22 +1,12 @@
 <h1 align="left">Olá! Meu nome é Gustavo Borges</h1>
 
 ###
-<h4 align="left">🌱 Em constante aprendizado! aprendendo sobre desenvolvimento web e Análise de dados!<br>😎 Construindo um futuro melhor para as pessoas que me cercam!<br>📫 Contate-me no email: contatogustavovborges@gmail.com<br>⚡ Fun fact: Sou MC, improviso e faço músicas, espero que em um futuro próximo consiga me dedicar também a esse segundo sonho!<br>📚 Estudando no momento: Excel | Power BI | SQL | Python</h4>
+<h4 align="left">📊 Em constante aprendizado! Analista de BI<br>😎 Construindo um futuro melhor para as pessoas que me cercam!<br>📫 Contate-me no email: contatogustavovborges@gmail.com<br>📚 Power BI || UX e UI Design</h4>
 
 ###
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=pt-br&hide_border=false&username=gustavoviaborges" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false&username=gustavoviaborges" height="150" alt="languages graph"  />
-</div>
-
-##
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" width="52" alt="canva logo"  />
 </div>
 
 ###
